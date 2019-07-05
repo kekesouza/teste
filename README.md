@@ -1,3 +1,4 @@
-# Cenourapp
+# CenourAPP
+@Kelvin Souza
 
-1ª versão, HTML e CSS simples. Baixe o zip e faça upload no *PhoneGap Build*
+Repositorio para aula 2 - Projeto inicial
